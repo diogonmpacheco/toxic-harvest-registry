@@ -109,7 +109,3 @@ This registry bridges the gap between ethnobotany, clinical toxicology, and hist
 * **Analysis & Historical Context:** In 1856 in Dingwall, Scotland, a cook accidentally harvested the tuberous root of the highly lethal ornament plant Monkshood, confusing it with wild horseradish for a roast beef dinner. Aconitine is an incredibly fast-acting cardiotoxin and neurotoxin that binds to open voltage-sensitive sodium channels, blocking inactivation. The dinner guests quickly experienced severe gastrointestinal distress, paresthesia, ascending paralysis, and died within hours from ventricular arrhythmias and respiratory failure.
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
